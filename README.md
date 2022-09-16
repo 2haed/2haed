@@ -1,6 +1,7 @@
 # Beginner python developer/data scientist
 ## Навыки:
-- Python
+- Python (в т.ч знаком с pandas, scikit-learn)
+- Python (Django)
 - SQL(Postgresql, MySql)
 - Docker
 - HTML
