@@ -2,6 +2,7 @@
 ## Навыки:
 - Python
 - SQL(Postgresql, MySql)
+- Docker
 - HTML
 - CSS
 - JavaScript
