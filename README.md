@@ -1,9 +1,9 @@
 # Beginner python developer/data scientist
 ## Навыки:
 - Python 
-   - DS(в т.ч. знаком с pandas, scikit-learn, scipy, numpy и другие) 
+   - DS (в т.ч. знаком с pandas, scikit-learn, scipy, numpy и другие) 
    - backend (fastapi, django, flask)
-- СУБД(Postgresql, MySql)
+- СУБД(Postgresql, MySql, sqlite)
 - Docker
 - HTML
 - CSS
