@@ -1,12 +1,16 @@
-# Beginner python developer/data scientist
+# Junior python data analytic / data scientist
 ## Навыки:
 - Python 
-   - DS (в т.ч. знаком с pandas, scikit-learn, scipy, numpy и другие) 
+   - DS (pandas, scikit-learn, scipy, numpy и другие)
+   - DA (apache стек: airflow, hadoop, yarn)
    - backend (fastapi, django, flask)
-   - lib (asyncio, aiohttp)
-- СУБД(Postgresql, MySql, sqlite)
+- СУБД
+  - колоночные:
+     - vertica
+     - clickhouse
+  - строковые
+     - postgresql
+     - t-sql
+     - teradata
 - Docker
-- HTML
-- CSS
-- JavaScript
 - Английский B2
