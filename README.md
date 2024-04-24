@@ -1,4 +1,4 @@
-# Junior python data analytic / data scientist
+# Junior python data analyst / data scientist
 ## Навыки:
 - Python 
    - DS (pandas, scikit-learn, scipy, numpy и другие)
